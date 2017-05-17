@@ -1,5 +1,5 @@
-# 测试创建一个.Net Core Console App
-
+﻿# 测试创建一个.Net Core Console App
+>http://52.199.169.32
 ## 工具
 1. 安装 .Net Core的电脑
 2. Vs Code 

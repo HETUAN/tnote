@@ -89,6 +89,9 @@ crontab -u root -e
 
 > 总之在创建任务时一定要使用绝对路径。不然任务可能不执行
 
+#### 4. anycrontab
+
+
 
 部署程序
 1. 安装crontab
@@ -133,3 +136,4 @@ service crontab resatrt
  
 
 ```
+
